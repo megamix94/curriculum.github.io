@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">  
+  <meta content="" name="descriptison">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta content="" name="keywords">
+  <title>Curriculum Vitae</title>
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i,900" rel="stylesheet">
+  
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+  
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+    <div class="container">
+      <div class="logo float-left">
+        <h1 class="text-light"><a href="index.html"><img src="assets/img/favicon.png" width="50" height="80"><span>CV</span></a></h1>
+      </div>
+      <!-- Navegador-->
+      <nav class="nav-menu float-right d-none d-lg-block">
+        <ul>
+          <li><a href="#header">Inicio</a></li>
+          <li><a href="#about">Sobre Mi</a></li>
+          <li><a href="#academico">Educacion</a></li>
+          <li><a href="#services">Trabajos</a></li>
+          <li><a href="#portfolio">Titulos</a></li>
+          <li><a href="#faq">Intereses</a></li>
+          <li><a href="#contact">Contacto</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <!-- ======= Hero Section ======= -->
+  <div class="hero vh-100 d-flex align-items-center">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-7 mx-auto text-center">
+          <h1 class="display-4 text-white">Cristian Nicolas Carrasco</h1>
+          <h3>Analista en Sistemas</h3>
+          <p class="text-white my-3">Mi objetivo principal como profesional de este sector es cubrir un 
+            puesto de trabajo que me permita demostrar los estudios que tengo y seguir formándome 
+            continuamente</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <main id="main">
+    <!-- ======= About Us Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+        <div class="row no-gutters">
+          <div class="col-lg-6 video-box">
+            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 d-flex flex-column justify-content-center about-content">
+            <div class="section-title">
+              <h2>Detalles Personales</h2>
+              <p>Nombre: Cristian Nicolas Carrasco <br>
+                Edad: 29 años <br>
+                Direccion: B° Pereyra Rosas Manzana 626 Casa 15<br>
+                Fecha de Nac.: 18/05/94<br>
+                Lugar de Nac.: Salta, Capital<br>
+                Naciolaidad: Argentina<br>
+                Estado Civil: Soltero<br>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======= About Lists Section ======= -->
+    <section id="academico" class="about-lists">
+      <div class="container">
+        <h2 class="text-center">Formacion Academica</h2><br>
+        <div class="row no-gutters">  
+          <div class="col-lg-4 col-md-6 content-item">
+            <h4 class="text-center">Primario</h4>
+            <p class="text-center">Colegio Santa Isabel de Hungria<br>
+              1999-2002<br> 
+              Escuela 4022 Dr. Benjamin Zorrilla<br>
+              2003-2006</p>
+          </div>
+          <div class="col-lg-4 col-md-6 content-item">
+            <h4 class="text-center">Secundario</h4>
+            <p class="text-center">Colegio Nacional de Salta<br>
+            2007-2012</p>
+          </div>
+          <div class="col-lg-4 col-md-6 content-item">
+            <h4 class="text-center">Terciario</h4>
+            <p class="text-center">Instituto Superior del Milagro<br>
+            2021-2023</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+        <div class="section-title">
+          <h2>Experiencia Laboral</h2>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6 icon-box">
+            <div class="icon"><i class="icofont-building"></i></div>
+            <h4 class="title"><a href="">Ayudante de albañil</a></h4>
+            <p class="description">Ayudaba en la construccion de casas</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box">
+            <div class="icon"><i class="icofont-bicycle"></i></div>
+            <h4 class="title"><a href="">Repartidor</a></h4>
+            <p class="description">Realice traslado de alimentos de comida rapido para los domicilios solicitados</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box">
+            <div class="icon"><i class="icofont-calendar"></i></div>
+            <h4 class="title"><a href="">Mozo de Eventos</a></h4>
+            <p class="description">Trabaje para servicios de mozos para fiestas infantiles, de 15 años.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======= Our Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio section-bg">
+      <div class="container">
+        <div class="section-title">
+          <h2>Cursos Realizados</h2>
+          <p></p>
+        </div>
+        <div class="row portfolio-container">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/titulo.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Reparacion de PC</h4>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/titulo.png" data-gall="portfolioGallery" class="venobox" title="Reparacion de PC"><i class="icofont-eye"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/titulo2.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Reparacion de Impresoras</h4>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/titulo2.png" data-gall="portfolioGallery" class="venobox" title="Reparacion de Impresoras"><i class="icofont-eye"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/titulo3.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Diseñador Grafico</h4>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/titulo3.png" data-gall="portfolioGallery" class="venobox" title="Diseñador Grafico"><i class="icofont-eye"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/titulo4.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Dactilografia</h4>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/titulo4.png" data-gall="portfolioGallery" class="venobox" title="Dactilografia"><i class="icofont-eye"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/titulo5.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Secretario Computacional</h4>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/titulo5.png" data-gall="portfolioGallery" class="venobox" title="Secretario Computacional"><i class="icofont-eye"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/titulo6.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Adobe in Desing</h4>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/titulo6.png" data-gall="portfolioGallery" class="venobox" title="Adobe in Desing"><i class="icofont-eye"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/titulo7.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Corel Draw</h4>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/titulo7.png" data-gall="portfolioGallery" class="venobox" title="Corel Draw"><i class="icofont-eye"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/titulo8.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Photoshop</h4>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/titulo8.png" data-gall="portfolioGallery" class="venobox" title="Photoshop"><i class="icofont-eye"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Web 3</h4>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="icofont-eye"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======= Frequently Asked Questions Section ======= -->
+    <section id="faq" class="faq section-bg">
+      <div class="container">
+        <div class="section-title">
+          <h2>Cualidades, Habilidades y Destrezas</h2>
+        </div>
+        <div class="row  d-flex align-items-stretch">
+          <div class="col-lg-6 faq-item">
+            <h4>Habilidades</h4>
+            <p>
+              Capacidad para seguir instrucciones.<br>
+              Disposicion a probar cosas nuevas.<br>
+              Conocimiento de las bases de datos MySQL.<br>
+              Conocimiento en diseño web.<br>
+              Conocimiento en lenguaje de programacion.
+            </p>
+          </div>
+          <div class="col-lg-6 faq-item">
+            <h4>Idiomas</h4>
+            <p>
+              Español: nivel nativo.<br>
+              Ingles: nivel basico.
+            </p>
+          </div>
+          <div class="col-lg-6 faq-item">
+            <h4>Otros Datos de Interes</h4>
+            <p>
+              Disponibilidad para incorporacion.<br>
+              Disponibilidad horaria.<br>
+
+            </p>
+          </div>
+          <div class="col-lg-6 faq-item">
+            <h4>Redes Sociales</h4>
+            <div class="social-links mt-3">
+              <p><a href="https://www.facebook.com/nico.carrasco.39" class="facebook"><i class="bx bxl-facebook"></i></a> /nico.carrasco.39/</p>
+              <p><a href="https://github.com/megamix94" class="github"><i class="bx bxl-github"></i></a> /megamix94</p>
+              <p><a href="https://www.linkedin.com/in/cristian-cnc1894/" class="linkedin"><i class="bx bxl-linkedin"></i></a> /cristian-cnc1894</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ======= Contact Us Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container">
+        <div class="section-title">
+          <h2>Para Contactarme</h2>
+        </div>
+        <div class="row">
+          <div class="col-lg-6 d-flex align-items-stretch">
+            <div class="info-box">
+              <i class="bx bx-map"></i>
+              <h3>Direccion</h3>
+              <p>B° Pereyra Rosas, Manzana 626 Casa 15</p>
+            </div>
+          </div>
+          <div class="col-lg-3 d-flex align-items-stretch">
+            <div class="info-box">
+              <i class="bx bx-envelope"></i>
+              <h3>Email</h3>
+              <p>megamix94@hotmail.com<br>cnc1894@gmail.com</p>
+            </div>
+          </div>
+          <div class="col-lg-3 d-flex align-items-stretch">
+            <div class="info-box ">
+              <i class="bx bx-phone-call"></i>
+              <h3>Llame Al</h3>
+              <p>+54 9 387 451-4824<br></p>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-6">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="form-row">
+                <div class="col-lg-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Nombre" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                  <div class="validate"></div>
+                </div>
+                <div class="col-lg-6 form-group">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Email" data-rule="email" data-msg="Please enter a valid email" />
+                  <div class="validate"></div>
+                </div>
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Asunto" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                <div class="validate"></div>
+              </div>
+              <div class="form-group">
+                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Mensaje"></textarea>
+                <div class="validate"></div>
+              </div>
+              <div class="mb-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Enviar Mensaje</button></div>
+            </form>
+          </div>
+          <div class="col-lg-6 col-md-6">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7244.274003408742!2d-65.4145512056587!3d-24.79076187036653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sar!4v1684794777341!5m2!1ses!2sar" width="100%" height="360" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+          
+        </div>
+      </div>
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>Mamba</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/mamba-one-page-bootstrap-template-free/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer>
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/jquery-sticky/jquery.sticky.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
+  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="assets/vendor/counterup/counterup.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+</html>
